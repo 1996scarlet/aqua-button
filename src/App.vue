@@ -17,7 +17,7 @@
                     <ul class="nav navbar-nav">
                         <li><a href="https://www.youtube.com/channel/UC8NZiqKx6fsDT3AVcMiVFyA" target="_blank"><img src="resources/youtube_social_icon_red.png" height="18"/></a></li>
                         <li><a href="https://twitter.com/norioo_" target="_blank"><img src="resources/Twitter_Social_Icon_Circle_Color.png" height="18"/></a></li>
-                        <li><a href="https://github.com/1996scarlet/tamaki-button" target="_blank"><img src="https://img.shields.io/github/stars/1996scarlet/tamaki-button.svg?style=socia"/></a></li>
+                        <li><a href="https://github.com/1996scarlet/tamaki-button" target="_blank"><img src="resources/GitHub-Mark-64px.png" height="18"/></a></li>
                     </ul>
                     <ul class="nav navbar-nav navbar-right">
                         <li class="dropdown">
