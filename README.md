@@ -1,4 +1,4 @@
-# Aqua button
+# Tamaki Button
 
 Aqua button [Click here to visit https://aquaminato.moe](https://aquaminato.moe)
 
@@ -6,9 +6,9 @@ Aqua button [Click here to visit https://aquaminato.moe](https://aquaminato.moe)
 
 Related Links:
 
-* [Aqua Minato's Youtube channel](https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg)
+* [Inuyama Tamaki's Youtube channel](https://www.youtube.com/channel/UC8NZiqKx6fsDT3AVcMiVFyA)
 
-* [Aqua Minato's Twitter](https://twitter.com/minatoaqua)
+* [Inuyama Tamaki's Twitter](https://twitter.com/norioo_)
 
 ## Contributing
 
@@ -52,16 +52,6 @@ To deploy a local development environment, first install the latest version of N
 
 > To contribute your code to this project, you don't have to compile locally. After passing the test in the development server and pushing it to Github, you can directly require a Pull Request to this project.
 
-## LICENCE
-
-Program: MIT
-
-Audio: According to the [Hololive secondary creation licence](https://www.hololive.tv/terms).
-
-This project is a work of enthusiasts and is not related to the hololive official.
-
 ## Special Thanks
-
-This project is supported by MeowSound Idols.
 
 This project is modified based on the [Meamea button](https://github.com/zyzsdy/meamea-button).
