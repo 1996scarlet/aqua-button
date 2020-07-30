@@ -1,53 +1,28 @@
 {
     "voices": [
         {
-            "categoryName": "actmoe",
-            "categoryDescription": {
-                "zh-CN": "萌",
-                "ja-JP": "もえ"
-            },
-            "voiceList": [
-                {
-                    "name": "a-1",
-                    "path": "a-1.mp3",
-                    "description": {
-                        "zh-CN": "kon↑kon↑kon→kon↑kon→kon↓",
-                        "ja-JP": "kon↑kon↑kon→kon↑kon→kon↓"
-                    }
-                },
-                {
-                    "name": "a-2",
-                    "path": "a-2.mp3",
-                    "description": {
-                        "zh-CN": "哈~哈~哈~哈~哎",
-                        "ja-JP": "えっ~えっ~えっ~えっ~え"
-                    }
-                },
-                {
-                    "name": "a-3",
-                    "path": "a-3.mp3",
-                    "description": {
-                        "zh-CN": "喷嚏",
-                        "ja-JP": "くしゃみ"
-                    }
-                },
-                {
-                    "name": "a-4",
-                    "path": "a-4.mp3",
-                    "description": {
-                        "zh-CN": "喷嚏1",
-                        "ja-JP": "くしゃみ1"
-                    }
-                }
-            ]
-        },
-        {
             "categoryName": "greeting",
             "categoryDescription": {
                 "zh-CN": "打招呼",
                 "ja-JP": "挨拶"
             },
             "voiceList": [
+                {
+                    "name": "t-bangbang",
+                    "path": "t-bangbang.mp3",
+                    "description": {
+                        "zh-CN": "你好 谢谢 棒棒鸡",
+                        "ja-JP": "こんにちは"
+                    }
+                },
+                {
+                    "name": "t-wangtama",
+                    "path": "t-wangtama.mp3",
+                    "description": {
+                        "zh-CN": "汪tama",
+                        "ja-JP": "汪tama"
+                    }
+                },
                 {
                     "name": "t-login",
                     "path": "t-login.mp3",
@@ -65,6 +40,14 @@
                 "ja-JP": "モーダル"
             },
             "voiceList": [
+                {
+                    "name": "t-thanks",
+                    "path": "t-thanks.mp3",
+                    "description": {
+                        "zh-CN": "谢谢",
+                        "ja-JP": "ありがとうございました"
+                    }
+                },
                 {
                     "name": "t-ne",
                     "path": "t-ne.mp3",
@@ -88,6 +71,14 @@
                         "zh-CN": "喜欢",
                         "ja-JP": "好き"
                     }
+                },
+                {
+                    "name": "t-provocative",
+                    "path": "t-provocative.mp3",
+                    "description": {
+                        "zh-CN": "挑衅",
+                        "ja-JP": "挑発的な"
+                    }
                 }
             ]
         },
@@ -99,28 +90,43 @@
             },
             "voiceList": [
                 {
+                    "name": "t-nasu",
+                    "path": "t-nasu.mp3",
+                    "description": {
+                        "zh-CN": "谢谢茄子",
+                        "ja-JP": "ありがとうナス"
+                    }
+                },
+                {
+                    "name": "t-bulibuli",
+                    "path": "t-bulibuli.mp3",
+                    "description": {
+                        "zh-CN": "噗哩噗哩动画",
+                        "ja-JP": "パフパフ"
+                    }
+                },
+                {
                     "name": "t-nofire",
                     "path": "t-nofire.mp3",
                     "description": {
                         "zh-CN": "嘲讽 DD King",
                         "ja-JP": "あざける"
                     }
-                }
-            ]
-        },
-        {
-            "categoryName": "sing",
-            "categoryDescription": {
-                "zh-CN": "唱歌",
-                "ja-JP": "うた"
-            },
-            "voiceList": [
+                },
                 {
-                    "name": "a-5",
-                    "path": "a-5.mp3",
+                    "name": "t-homo",
+                    "path": "t-homo.mp3",
                     "description": {
-                        "zh-CN": "喷嚏三连",
-                        "ja-JP": "くしゃみ三連"
+                        "zh-CN": "homo suki",
+                        "ja-JP": "ホモ好き"
+                    }
+                },
+                {
+                    "name": "t-woman",
+                    "path": "t-woman.mp3",
+                    "description": {
+                        "zh-CN": "喜欢女孩子",
+                        "ja-JP": "女の子好き"
                     }
                 }
             ]
